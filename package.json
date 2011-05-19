@@ -1,0 +1,20 @@
+{
+    "name": "foss-credits-collection",
+    "version": "0.0.1",
+    
+    "description": "A collection of credits for foss-credits",
+    "url": "https://github.com/andrewschaaf/foss-credits-collection",
+    
+    "main": "main.js",
+    
+    "dependencies": {
+        "coffee-script": "=1.1.0"
+    },
+    
+    "author": "Andrew Schaaf <andrew@andrewschaaf.com>",
+    
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/andrewschaaf/foss-credits-collection.git"
+    }
+}
