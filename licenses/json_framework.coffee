@@ -1,4 +1,4 @@
-module.exports
+module.exports =
   name: "json-framework"
   website: "https://github.com/stig/json-framework/"
   license: """
